@@ -22,3 +22,81 @@ running,kukimbia,guteng'era
 school,shule,thukuru
 my,yangu,witu
 job,kazi,wira
+admit,kubali,koingeria
+admonish,onya,kotetia
+adolescent,kijana,kahe
+adorn,pamba,kogemia
+adroit,hodari,moge
+adulate,sifu,kohenereria
+adultery,uzinzi,koiya muka
+advance,tangulia,kotongoria
+advantage,faida,ngerereri
+adversity,shida,ruo
+advertise,tangaza,koleha uhoro
+advice,ushauri,shira
+advise,shauri,kochira
+adviser,mshauri,mchiri
+affair,jambo,uhoro
+affection,upendo,lwendo
+afflict,tesa,kokomaka
+affliction,taabu,sena
+affront,matusi,irumi
+afraid,ogopa,koitigera
+after,baada ya,suza wa
+afterwards,baadaye,ninge
+afternoon,alasiri,mialaho
+after to-morrow,kesho kutwa,oke
+again,tena,ninge
+against,dhidi ya,igoro rya
+agitate,tingisha,koinainia
+ago,zamani,tene
+agonize,teseka,kotwekana
+agree,kubaliana,koiguana
+ahead,mbele,mbele
+aid,saidia,koteizia
+aim,shabaha,wazi
+air,hewa,heho
+alike,sawa,iganaine
+aliment,chakula,irio
+alive,hai,gima
+all,wote,ose
+allow,ruhusu,kotiga
+aloud,kwa sauti,konegena mno
+already,tayari,reu
+also,pia,na
+alter,badilisha,kogalula
+although,ingawa,ona
+altogether,kabisa,ose mno
+always,kila wakati,mosenya yose
+amazed,shangaa,komaka
+among,katikati ya,katanati ya
+amulet,hirizi,kezito
+amuse,furahisha,koseka
+amusement,mchezo,mzexo
+ancestors,wahenga,maguka
+ancient,wa kale,mzuri
+and,na,na
+angel,malaika,ngoma
+anger,hasira,kesori
+angle,pembe,lwere
+angry,kasirika,korakala
+animal,mnyama,nyamo
+animalcule,kijidudu,kanyamo
+ankle,kiwiko cha mguu,ndira ya kogoro
+announce,tangaza,koleha uhoro
+annoy,kasirisha,kondakaria
+annul,futa,kohingura
+anoint,paka mafuta,kobaka
+another,nyingine,unge
+answer,jibu,koetekia
+ants,mchwa,saragu
+antique,cha kale,zuri
+antre,pango,ngurunga
+anus,mkundu,mzuti
+anvil,nyundo,ihiga
+any,yoyote,wose
+apart,kando,mwanya
+ape,nyani,nogo
+apparent,wazi,seri
+appear,onekana,koonwo
+appease,tuliza,kokiria
